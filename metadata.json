@@ -1,0 +1,5 @@
+{
+  "name": "FitLife AI Planner",
+  "description": "A comprehensive fitness and diet tracking application powered by Gemini AI. Features calorie tracking, workout logs, progress analytics, and AI-generated personalized diet plans.",
+  "requestFramePermissions": []
+}
