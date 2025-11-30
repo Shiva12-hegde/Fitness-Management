@@ -1,20 +1,38 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Fitness Management – AI Powered Fitness Planner
 
-# Run and deploy your AI Studio app
+Fitness Management is a web application built using React with TypeScript and Vite. The application enables users to manage and track their fitness activities, including workouts, diet plans, and overall progress. It also integrates AI-based recommendation features to provide personalized suggestions. The system offers a modern UI, responsive design, and efficient performance through Vite.
 
-This contains everything you need to run your app locally.
+## Features
+• Workout planning with categorized exercise sections  
+• Personalized diet and meal tracking  
+• Progress tracking and goal monitoring  
+• Community forum and discussion page  
+• AI-powered recommendation system using Gemini API  
+• User authentication interface design  
+• Responsive and modern user interface  
+• Fast build and development environment
 
-View your app in AI Studio: https://ai.studio/apps/drive/1CRlaqFeHwBlEXq2Eju4Tyr3MTYrzA05z
+## Tech Stack
+• React (TypeScript)  
+• Vite  
+• CSS / Tailwind (if used)  
+• Context API for state management  
+• Gemini API integration  
+• npm package manager
 
-## Run Locally
+## Project Structure
+Fitness-Management  
+├─ components  
+├─ context  
+├─ pages  
+├─ services  
+├─ App.tsx  
+├─ index.tsx  
+├─ package.json  
+├─ tsconfig.json  
+├─ vite.config.ts  
+└─ README.md
 
-**Prerequisites:**  Node.js
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+
